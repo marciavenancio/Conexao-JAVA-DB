@@ -1,4 +1,4 @@
-# Conexao-JAVA-DB
+# Conexao-JAVA-DB - FINTECH
 Desafio: EXIBIR E CADASTRAR INFORMAÇÕES DE UMA LISTAGEM DO FINTECH, AGORA COM BANCO DE DADOS
 Faça a classe DAO que você criou acessar o banco de dados, de fato. Crie um método getAll() que deve acessar o banco de dados, realizar um SELECT e receber a consulta, armazenando em uma coleção de dados.
 
